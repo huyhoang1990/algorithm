@@ -6,7 +6,7 @@ def quick_sort(data):
 def quick_sort_helper(data, first, last):
     if first < last:
         split_point = partition(data, first, last)
-        
+
         # recursive
         quick_sort_helper(data, first, split_point-1)
         quick_sort_helper(data, split_point+1, last)
@@ -41,9 +41,6 @@ def partition(data, first, last):
     data[first] = tmp
 
     return right_mark
-
-
-
 
 if __name__ == '__main__':
     data = [1,10,20,10,201,32,12,3]

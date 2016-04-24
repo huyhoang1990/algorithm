@@ -28,11 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="LinkedList.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LinkedList.py">
+      <file leaf-file-name="linked_list.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/linked_list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.7777777">
-              <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.46153846">
+              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -53,18 +53,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="33" column="10" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
-              <folding>
-                <marker date="1461426818000" expanded="true" signature="23:748" placeholder="..." />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="quick.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="quick.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sort/quick.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.1764706">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -183,7 +181,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Algorithm" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinkedList.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/linked_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -493,14 +491,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LinkedList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.7777777">
-          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sort/bubble.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -513,16 +503,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="33" column="10" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
-          <folding>
-            <marker date="1461426818000" expanded="true" signature="23:748" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sort/quick.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.1764706">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linked_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46153846">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
           <folding />
         </state>
       </provider>
